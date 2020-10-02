@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm Cyclo-alkane</h1>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- 🙎 Naman Kumar| 💻 Cyber-Security Enthusiast | 🛸 India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ 🧔 Naman Kumar| 💻 Cyber-Security Enthusiast | 🛸 India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
  &nbsp;
  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=25">
 </div>
