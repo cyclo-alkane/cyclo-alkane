@@ -6,8 +6,8 @@
  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
 <p align='center'>
-   <a href="https://www.linkedin.com/in/naman-kumar-a21653176/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/naman_kumar_np/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/naman-kumar-a21653176/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/naman_kumar_np/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/instagram.svg"></a>&nbsp;&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyclo-alkane" alt="cyclo-alkane" /> </p>
 
 
