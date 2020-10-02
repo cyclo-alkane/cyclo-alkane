@@ -3,8 +3,10 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  🙎 Naman Kumar| 💻 Cyber-Security Enthusiast | 🛸 India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ &nbsp;
  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=25">
 </div>
+<br/>
 <p align='center'>
    <a href="https://www.linkedin.com/in/naman-kumar-a21653176/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/naman_kumar_np/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/instagram.svg"></a>&nbsp;&nbsp;
