@@ -54,7 +54,7 @@
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cyclo-alkane&show_icons=true&theme=dark&title_color=COLOR3" alt="cyclo-alkane" /> </p>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclo-alkane&langs_count=9&theme=dark&title_color=COLOR3" alt="cyclo-alkane"  /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyclo-alkane"/>
+
 
 
 
