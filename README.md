@@ -67,7 +67,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclo-alkane&langs_count=9&theme=dark&title_color=COLOR3" alt="cyclo-alkane"  /></p>
 
 # Research Paper
-> You can read our reserch paper from <a href="https://doi.org/10.1016/S1361-3723(20)30098-1">here</a>
+> You can read my reserch paper from <a href="https://doi.org/10.1016/S1361-3723(20)30098-1">here</a>
 
 
 
