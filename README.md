@@ -54,6 +54,11 @@
 
 </p>
 
+# Other Skills
+<h3 align="center">Metasploit, Nmap, Burpsuite, Kali Linux, Dirbuster, Linux, Batch Scripting, Bash Scripting and various more hacking tool.</h3>
+<p align="center">Added this in plain text as didn't found icon for them.😅 </p>
+
+
 # Github Stats
 
 
