@@ -22,7 +22,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ff357559590785.5a281d55b7337.gif" />
 
 
-- 🔭 I’m currently exploring **cyber-security field**
+- 🔭 I’m currently exploring **cyber-security domain**
 
 - 👯 I’m looking to collaborate on **anything in cyber-security field**
 
