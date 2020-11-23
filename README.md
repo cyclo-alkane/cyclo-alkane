@@ -65,9 +65,9 @@
 <p align="left"> <img align="left" style="vertical-align:top;" src="https://github-readme-stats-five-lyart.vercel.app/api?username=cyclo-alkane&show_icons=true&theme=dark&title_color=COLOR3" alt="cyclo-alkane" /> </p>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclo-alkane&langs_count=7&theme=dark&title_color=COLOR3" alt="cyclo-alkane"  /></p>
 
-# Research Paper
-> You can read my reserch paper from <a href="https://doi.org/10.1016/S1361-3723(20)30098-1">here</a>
-
+# Research paper and articles
+> You can read my reserch paper from <a href="https://doi.org/10.1016/S1361-3723(20)30098-1">here</a> \
+> You can read my article on the topic XXE from <a href="https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/">here</a>
 
 
 
