@@ -14,7 +14,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/naman-kumar-a21653176/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/naman_kumar_np/"><img src="https://raw.githubusercontent.com/cyclo-alkane/cyclo-alkane/master/svg/social/instagram.svg"></a>&nbsp;&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyclo-alkane" alt="cyclo-alkane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyclo-alkane&color=red" alt="cyclo-alkane" /> </p>
 
 
 # About
